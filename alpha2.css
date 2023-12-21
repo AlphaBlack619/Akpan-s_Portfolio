@@ -160,6 +160,9 @@
   margin-top: 2rem;
   text-align: center;
 }
+.btn-box{
+  display: none;
+}
 }
 
 @media(max-width: 371px){
@@ -176,6 +179,10 @@
 .home-content h1{
   font-size: 5rem;
 }
+.btn-box{
+  display: none;
+}
+
 }
 .toy{
   color: transparent;
